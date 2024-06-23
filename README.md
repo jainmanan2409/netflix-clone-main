@@ -1,9 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/jainmanan2409/responsive-netflix-clone)
-  ![GitHub stars](https://img.shields.io/github/stars/jainmanan2409/responsive-netflix-clone)
-  ![GitHub forks](https://img.shields.io/github/forks/jainmanan2409/responsive-netflix-clone?style=social)
- 
   <br />
 
   <h2 align="center">Responsive Netflix Clone</h2>
@@ -27,5 +23,5 @@ Before you begin, ensure you have met the following requirements:
 
 ### Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/manannnn___)   [LinkedIn](https://www.linkedin.com/in/jainmanan2409).
+If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/jainmanan2409).
 
