@@ -23,6 +23,5 @@ Before you begin, ensure you have met the following requirements:
 
 ### Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/manannnn___)
-                                              [LinkedIn](www.linkedin.com/in/jainmanan2409).
+If you want to contact me you can reach me at [LinkedIn](www.linkedin.com/in/jainmanan2409).
 
