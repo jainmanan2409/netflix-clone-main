@@ -6,7 +6,7 @@
 
   In this project, I have created Responsive Netflix Clone Main Page, The project is built using HTML5, CSS3 & JavaScript.
 
-  <a href="https://jainmanan2409.github.io/"><strong>➥ Live Demo</strong></a>
+  <a href="https://jainmanan2409.github.io/netflix-clone-main/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
